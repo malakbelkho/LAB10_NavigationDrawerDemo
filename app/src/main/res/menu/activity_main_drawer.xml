@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_aurora"
+            android:icon="@drawable/ic_glow_home"
+            android:title="Accueil Aurora" />
+
+        <item
+            android:id="@+id/nav_ocean"
+            android:icon="@drawable/ic_ocean_wave"
+            android:title="Espace Océan" />
+
+        <item
+            android:id="@+id/nav_palette"
+            android:icon="@drawable/ic_palette_list"
+            android:title="Palette List" />
+
+    </group>
+
+</menu>

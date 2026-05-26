@@ -7,4 +7,18 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="aurora_start">#FF5C8A</color>
+    <color name="aurora_middle">#8E44AD</color>
+    <color name="aurora_end">#2C3E50</color>
+
+    <color name="ocean_start">#00C6FF</color>
+    <color name="ocean_middle">#0072FF</color>
+    <color name="ocean_end">#1B1464</color>
+
+    <color name="drawer_deep">#263238</color>
+    <color name="soft_white">#FDFDFD</color>
+    <color name="text_dark">#263238</color>
+    <color name="text_light">#FFFFFF</color>
+    <color name="accent_pink">#FF4081</color>
+    <color name="accent_yellow">#FFD166</color>
 </resources>

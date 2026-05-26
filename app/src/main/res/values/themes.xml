@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
-    <style name="Theme.NavigationDrawerDemo" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.NavigationDrawerDemo" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#7B2CBF</item>
+        <item name="colorPrimaryVariant">#5A189A</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:statusBarColor">#5A189A</item>
+        <item name="android:navigationBarColor">#240046</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
 </resources>
